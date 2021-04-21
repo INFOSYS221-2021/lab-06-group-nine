@@ -45,3 +45,10 @@ bedsNewIQ.push(item);
 How do you remove an item to a collection? What happens if you try to remove an item that does not exist in the collection?<br>
 
 </p>
+
+
+Patrik Bolander pbol970
+Mahir Chand mcha480
+
+
+
