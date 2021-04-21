@@ -20,11 +20,12 @@ queue.get()
 Timeout error
 
 Change the implementation of a FIFO queue to a LIFO queue in 5.6.1.<br>
-# // use python queue
-import queue 
+<code>
+  import queue 
 
-# Initialise a queue
-miqVoucherQ = queue.LifoQueue(maxsize = 100)
+  Initialise a queue
+  miqVoucherQ = queue.LifoQueue(maxsize = 100)
+</code>
 </p>
   
 ## Exercise 5.6.2
