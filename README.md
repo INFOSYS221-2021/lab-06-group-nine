@@ -36,7 +36,12 @@ While loop, in assignPatientToBedFree <br>
 for loop, 
 
 How do you find out the size of a collection?<br>
+bedsNewIQ.length;
+
 How do you add an item to a collection? What happens if you try to add an item to a collection that is already full?<br>
+bedsNewIQ.push(item);
+
+
 How do you remove an item to a collection? What happens if you try to remove an item that does not exist in the collection?<br>
-Change the implementation of a FIFO queue to a LIFO queue in 5.6.1.<br>
+
 </p>
