@@ -2,7 +2,7 @@
 
 ## Exercise 5.6.1
 <p>
-What is the type of collection used in the exercise? <br>
+### What is the type of collection used in the exercise? <br>
 Queue
 
 What are the different ways of iterating through a collection?<br>
