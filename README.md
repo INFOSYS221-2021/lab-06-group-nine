@@ -12,11 +12,11 @@ How do you find out the size of a collection?<br>
 _queue.qsize()_
 
 How do you add an item to a collection? What happens if you try to add an item to a collection that is already full?<br>
-Add item to a collection by doing _queue.put(item)_
+Add item to a collection by doing _queue.put(item)_ <br>
 Timeout error
 
 How do you remove an item to a collection? What happens if you try to remove an item that does not exist in the collection?<br>
-queue.get()
+queue.get()<br>
 Timeout error
 
 Change the implementation of a FIFO queue to a LIFO queue in 5.6.1.<br></p>
