@@ -3,6 +3,8 @@
 ## Exercise 5.6.1
 <p>
 What is the type of collection used in the exercise? <br>
+Queue
+
 What are the different ways of iterating through a collection?<br>
 How do you find out the size of a collection?<br>
 How do you add an item to a collection? What happens if you try to add an item to a collection that is already full?<br>
