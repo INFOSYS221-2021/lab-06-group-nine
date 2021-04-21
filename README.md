@@ -19,13 +19,13 @@ How do you remove an item to a collection? What happens if you try to remove an 
 queue.get()
 Timeout error
 
-Change the implementation of a FIFO queue to a LIFO queue in 5.6.1.<br>
+Change the implementation of a FIFO queue to a LIFO queue in 5.6.1.<br></p>
 <code>
   import queue
   
   miqVoucherQ = queue.LifoQueue(maxsize = 100)
 </code>
-</p>
+
   
 ## Exercise 5.6.2
 <p>
