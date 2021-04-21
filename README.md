@@ -47,7 +47,7 @@ How do you remove an item to a collection? What happens if you try to remove an 
 </p>
 
 
-Patrik Bolander pbol970
+Patrik Bolander pbol970 <br>
 Mahir Chand mcha480
 
 
