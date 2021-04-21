@@ -22,8 +22,6 @@ Timeout error
 Change the implementation of a FIFO queue to a LIFO queue in 5.6.1.<br>
 <code>
   import queue 
-
-  Initialise a queue
   miqVoucherQ = queue.LifoQueue(maxsize = 100)
 </code>
 </p>
