@@ -20,15 +20,17 @@ queue.get()
 Timeout error
 
 Change the implementation of a FIFO queue to a LIFO queue in 5.6.1.<br></p>
-<code>
-  import queue
+```python
+  import queue 
   miqVoucherQ = queue.LifoQueue(maxsize = 100)
-</code>
+```
 
   
 ## Exercise 5.6.2
 <p>
 What is the type of collection used in the exercise?<br>
+
+
 What are the different ways of iterating through a collection?<br>
 How do you find out the size of a collection?<br>
 How do you add an item to a collection? What happens if you try to add an item to a collection that is already full?<br>
