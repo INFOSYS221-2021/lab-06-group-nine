@@ -32,8 +32,9 @@ What is the type of collection used in the exercise?<br>
 Array
 
 What are the different ways of iterating through a collection?<br>
-While loop, in assignPatientToBedFree
+While loop, in assignPatientToBedFree <br>
 for loop, 
+
 How do you find out the size of a collection?<br>
 How do you add an item to a collection? What happens if you try to add an item to a collection that is already full?<br>
 How do you remove an item to a collection? What happens if you try to remove an item that does not exist in the collection?<br>
